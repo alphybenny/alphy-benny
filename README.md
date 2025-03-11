@@ -1,4 +1,5 @@
-# 💫About Me :
+# 💫About Me : Hi I am Alphy 
+
 I'm currently working on a Personal LLM Chatbot
 
 ## 🌐Socials
